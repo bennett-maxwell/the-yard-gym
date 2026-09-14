@@ -1,0 +1,688 @@
+{
+  "slug": "the-yard-gym",
+  "brand": "The Yard Gym",
+  "franchiseFee": 50000,
+  "totalInvestmentMin": 398550,
+  "totalInvestmentMax": 954100,
+  "royaltyPercent": "7%",
+  "royaltyFee": "7% of Gross Revenue or $1,600/month minimum",
+  "adFee": "2% of Gross Revenue or $200/month minimum",
+  "totalUnits": 70,
+  "openLocations": 70,
+  "corporateCity": "West Hollywood",
+  "corporateState": "CA",
+  "corporateZip": "90069",
+  "corporateAddress": "1/2 Cawarra Road, Caringbah, NSW, 2229, Australia",
+  "description": "The Yard Gym is a boutique strength and conditioning franchise founded in Australia in 2020 by Dan and Tiarne Bova, operated in the US by franchisor TYG Enterprises, LLC, a Delaware LLC formed in 2023. The concept centers on pre-recorded 50-minute instructor-led group classes \u2014 RIG strength/endurance, TURF cardio intervals, and Saturday PAY DAY team sessions \u2014 run in compact 2,000-4,400 sq ft studios with floor coaches giving individual guidance. Per the 2025 US FDD (issued December 8, 2025), the franchise fee is $50,000, total initial investment ranges from $398,550 to $954,100, royalty is the greater of 7% of gross revenue or $1,600/month, and the marketing fee is the greater of 2% or $200/month. The US system had 9 operating gyms at mid-2025 with 55 additional signed agreements; Item 19 reports average gross revenue of $739,496 across the 2 San Diego gyms open a full year. Risk score 34/100.",
+  "category": "Fitness / Boutique Gym",
+  "websiteUrl": "https://www.theyardgym.com/",
+  "yearFounded": 2020,
+  "fddYear": 2025,
+  "territoryDescription": "Protected non-exclusive territory: never smaller than a single ZIP code; the franchisor will not grant another Network Gym inside it, but reserves rights for nontraditional venues (malls, airports, stadiums, hotels, military bases, universities, hospitals) and chain acquisitions; territorial rights cover gym placement, not clients.",
+  "item12": "non-exclusive",
+  "item20PinCount": 9,
+  "hq_source": "fdd-item-1 (FDD Item 1, p.1)",
+  "risk_score": 34,
+  "pins": [
+    {
+      "city": "Birmingham",
+      "state": "AL",
+      "neighborhood": null,
+      "latitude": 33.5206824,
+      "longitude": -86.8024326,
+      "pin_source": "FDD Exhibit K \u2014 Birmingham, AL (Reform Motion Therapy LLC); geocoded Birmingham AL city centroid"
+    },
+    {
+      "city": "Paradise Valley",
+      "state": "AZ",
+      "neighborhood": null,
+      "latitude": 33.5324295,
+      "longitude": -111.9505123,
+      "pin_source": "FDD Exhibit K \u2014 Paradise Valley (Phoenix, AZ) (RZSA Ventures LLC); geocoded Paradise Valley AZ city centroid"
+    },
+    {
+      "city": "San Diego",
+      "state": "CA",
+      "neighborhood": "Normal Heights",
+      "latitude": 32.7632847,
+      "longitude": -117.1184415,
+      "pin_source": "FDD Exhibit K \u2014 Normal Heights (San Diego, CA), operating; geocoded neighborhood centroid"
+    },
+    {
+      "city": "San Diego",
+      "state": "CA",
+      "neighborhood": "Pacific Beach",
+      "latitude": 32.7978268,
+      "longitude": -117.2403183,
+      "pin_source": "FDD Exhibit K \u2014 Pacific Beach (San Diego, CA), operating; geocoded neighborhood centroid"
+    },
+    {
+      "city": "Arvada",
+      "state": "CO",
+      "neighborhood": null,
+      "latitude": 39.8005505,
+      "longitude": -105.0811573,
+      "pin_source": "FDD Exhibit K \u2014 Arvada (Denver, CO) (Bozo Holdings LLC); geocoded Arvada CO city centroid"
+    },
+    {
+      "city": "Honolulu",
+      "state": "HI",
+      "neighborhood": "Kahala (Oahu)",
+      "latitude": 21.2705588,
+      "longitude": -157.786244,
+      "pin_source": "FDD Exhibit K \u2014 Kahala (Oahu, HI) (Wolf & 'Io Corporation), operating; geocoded Kahala neighborhood centroid"
+    },
+    {
+      "city": "Grand Haven",
+      "state": "MI",
+      "neighborhood": null,
+      "latitude": 43.0630734,
+      "longitude": -86.2283864,
+      "pin_source": "FDD Exhibit K \u2014 Grand Haven, MI (TYG Lakeshore LLC); geocoded Grand Haven MI city centroid"
+    },
+    {
+      "city": "San Antonio",
+      "state": "TX",
+      "neighborhood": "Downtown / Broadway",
+      "latitude": 29.4257188,
+      "longitude": -98.4892023,
+      "pin_source": "FDD Exhibit K \u2014 Downtown/Broadway (San Antonio, TX) (TriFit Collective Broadway, LLC), operating; geocoded Downtown San Antonio centroid"
+    }
+  ],
+  "fields": {
+    "franchisor_legal_name": {
+      "value": "TYG Enterprises, LLC",
+      "type": "absolute",
+      "item": "FDD cover + Item 1, p.1"
+    },
+    "franchisor_entity_type": {
+      "value": "Delaware limited liability company",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "franchisor_formed_date": {
+      "value": "2023-05-05",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "corporate_address": {
+      "value": "1/2 Cawarra Road, Caringbah, NSW, 2229, Australia",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1 \u2014 franchisor principal place of business (HQ)"
+    },
+    "corporate_us_office": {
+      "value": "Red Building, Pacific Design Center, 750 N San Vicente Blvd., West Hollywood, CA 90069; phone 858-241-4134",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1 \u2014 US office maintained by franchisor"
+    },
+    "corporate_phone": {
+      "value": "858-241-4134",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "corporate_city": {
+      "value": "West Hollywood",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1 \u2014 franchisor US office city"
+    },
+    "corporate_state": {
+      "value": "CA",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1 \u2014 franchisor US office state"
+    },
+    "corporate_zip": {
+      "value": "90069",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1 \u2014 franchisor US office ZIP"
+    },
+    "corporate_city_hq": {
+      "value": "Caringbah (principal HQ, NSW, Australia)",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "dba_name": {
+      "value": "THE YARD GYM",
+      "type": "absolute",
+      "item": "FDD cover + Item 1, p.1 \u2014 trade name / Licensed Marks"
+    },
+    "parent_name": {
+      "value": "Bova Fitness Pty Ltd., Australian limited liability company organized 2014-07-29",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1"
+    },
+    "affiliate_tyg": {
+      "value": "The Yard Ventures Pty Ltd., Australian limited liability company organized 2021-09-13",
+      "type": "absolute",
+      "item": "FDD Item 1, p.1 \u2014 TYG Affiliate"
+    },
+    "affiliate_operator": {
+      "value": "The Yard Gym Pty, Ltd., Australian limited liability company organized 2020-05-05; owns and operates one gym in Caringbah, Australia",
+      "type": "absolute",
+      "item": "FDD Item 1, pp.1-2"
+    },
+    "operates_other_concepts": {
+      "value": "No \u2014 never offered franchises in any other line of business",
+      "type": "absolute",
+      "item": "FDD Item 1, p.3"
+    },
+    "brand_founded_year": {
+      "value": 2020,
+      "type": "absolute",
+      "item": "FDD Item 1, p.1 \u2014 first gym opened July 13, 2020, Caringbah, Australia"
+    },
+    "year_franchising_began_us": {
+      "value": 2024,
+      "type": "absolute",
+      "item": "FDD Item 1, p.2 \u2014 US franchises offered since February 16, 2024"
+    },
+    "ceo_name": {
+      "value": "Dan Bova",
+      "type": "absolute",
+      "item": "FDD cover + Item 2, p.6 \u2014 Managing Member, CEO; co-founded concept with wife Tiarne Bova in 2020"
+    },
+    "creative_director": {
+      "value": "Tiarne Bova \u2014 Managing Member and Creative Director",
+      "type": "absolute",
+      "item": "FDD Item 2, p.7"
+    },
+    "head_of_growth": {
+      "value": "Cory George \u2014 Global Head of Growth since October 2023",
+      "type": "absolute",
+      "item": "FDD Item 2, p.7"
+    },
+    "head_of_sales": {
+      "value": "Carl Giammarco \u2014 Head of Sales since January 2024",
+      "type": "absolute",
+      "item": "FDD Item 2, p.7"
+    },
+    "fdd_issue_date": {
+      "value": "2025-12-08",
+      "type": "absolute",
+      "item": "FDD cover page"
+    },
+    "fdd_registration_states": {
+      "value": "CA HI IL IN MD MI MN NY ND RI SD VA WA WI (plus CT pending)",
+      "type": "absolute",
+      "item": "FDD State Effective Dates page"
+    },
+    "concept_description": {
+      "value": "Boutique strength and conditioning fitness studio: functional strength, conditioning, and anaerobic group classes using pro-level fitness equipment, pre-recorded 50-minute instructor-led RIG, TURF, and PAY DAY class sessions with floor coaches providing individual guidance",
+      "type": "absolute",
+      "item": "FDD cover + Item 1, pp.1-3"
+    },
+    "facility_size_sqft": {
+      "value": "2,000 to 4,400 square feet",
+      "type": "absolute",
+      "item": "FDD Item 1, p.3"
+    },
+    "class_format": {
+      "value": "Pre-recorded 50-minute RIG (strength/endurance), TURF (cardio intervals), PAY DAY (Saturday team) sessions; new weekly programming; floor coach on workout floor for every session",
+      "type": "absolute",
+      "item": "FDD Item 1, pp.2-3"
+    },
+    "initial_franchise_fee": {
+      "value": 50000,
+      "type": "absolute",
+      "item": "FDD Item 5, p.7"
+    },
+    "initial_franchise_fee_conversion": {
+      "value": 25000,
+      "type": "absolute",
+      "item": "FDD Item 5, p.8 \u2014 conversion franchisee pays 50% of Initial Franchise Fee"
+    },
+    "multi_unit_discount": {
+      "value": "Progressive 5% discount per additional franchise, up to 20% maximum (5th+ franchise)",
+      "type": "absolute",
+      "item": "FDD Item 5, p.7"
+    },
+    "franchise_fee_refund": {
+      "value": "Non-refundable except: refund of all but $5,000 if franchisor cannot complete launch obligations",
+      "type": "absolute",
+      "item": "FDD Item 5, p.9"
+    },
+    "royalty_terms": {
+      "value": "Greater of 7% of Gross Revenue or $1,600 per Calendar Month (paid as $400/week minimum)",
+      "type": "absolute",
+      "item": "FDD Item 6, p.12"
+    },
+    "royalty_minimum_monthly": {
+      "value": 1600,
+      "type": "absolute",
+      "item": "FDD Item 6, p.12"
+    },
+    "royalty_weekly_minimum": {
+      "value": 400,
+      "type": "absolute",
+      "item": "FDD Item 6, p.12 \u2014 debited on the 1st, 8th, 15th, 22nd of each month"
+    },
+    "royalty_holiday_conversion": {
+      "value": "Conversion franchisees excused from Royalty Fees for first 8 weeks after Opening Date",
+      "type": "absolute",
+      "item": "FDD Item 6, p.12"
+    },
+    "marketing_fee_terms": {
+      "value": "Greater of 2% of Gross Revenue or $200 per Calendar Month; Marketing Fund",
+      "type": "absolute",
+      "item": "FDD Item 6, pp.12-13"
+    },
+    "marketing_fee_minimum_monthly": {
+      "value": 200,
+      "type": "absolute",
+      "item": "FDD Item 6, p.12"
+    },
+    "local_marketing_requirement": {
+      "value": "At least 3% of Gross Revenue each calendar quarter on approved local marketing (paid to third parties, not franchisor); shortfall payable to franchisor plus 25% surcharge to Marketing Fund",
+      "type": "absolute",
+      "item": "FDD Item 6, pp.18-19"
+    },
+    "grand_opening_marketing": {
+      "value": "$15,000 to $27,500 Grand Opening Launch Marketing (paid to franchisor)",
+      "type": "absolute",
+      "item": "FDD Item 7, p.22"
+    },
+    "investment_min": {
+      "value": 398550,
+      "type": "absolute",
+      "item": "FDD Item 7, p.22 \u2014 Start-Up Franchisee total"
+    },
+    "investment_max": {
+      "value": 954100,
+      "type": "absolute",
+      "item": "FDD Item 7, p.22 \u2014 Start-Up Franchisee total"
+    },
+    "investment_conversion_min": {
+      "value": 236550,
+      "type": "absolute",
+      "item": "FDD cover \u2014 conversion franchisee total"
+    },
+    "investment_conversion_max": {
+      "value": 539100,
+      "type": "absolute",
+      "item": "FDD cover \u2014 conversion franchisee total"
+    },
+    "equipment_package": {
+      "value": "$112,500 to $122,500 Initial Exercise Pack (purchased from TYG Affiliate); additional fitness equipment $3,000 to $9,000",
+      "type": "absolute",
+      "item": "FDD Item 5, p.8; Item 7, p.21"
+    },
+    "technology_fees": {
+      "value": "$2,550 to $5,100 before Opening Date",
+      "type": "absolute",
+      "item": "FDD Item 7, p.22; Note 13"
+    },
+    "music_licensing": {
+      "value": "$500 to $2,000 first year (BMI/ASCAP)",
+      "type": "absolute",
+      "item": "FDD Item 7, p.22"
+    },
+    "training_program": {
+      "value": "Initial Training Program for Primary Owner and management-level employees (no training fee); includes Training and Coach Training modules completed before Opening Date",
+      "type": "absolute",
+      "item": "FDD Item 11, p.38; Item 5, p.11"
+    },
+    "time_to_open_deadline_days": {
+      "value": 180,
+      "type": "absolute",
+      "item": "FDD Item 11 \u2014 180 days after Franchise Agreement execution to complete listed pre-opening conditions"
+    },
+    "territory_exclusive": {
+      "value": "No \u2014 protected (non-exclusive): territory never smaller than a single ZIP code; franchisor will not grant another Network Gym in the territory, but reserves rights (nontraditional venues, chain acquisitions) and clients may frequent any gym",
+      "type": "absolute",
+      "item": "FDD Item 12, p.50"
+    },
+    "territory_min_size": {
+      "value": "Never smaller than a single ZIP code",
+      "type": "absolute",
+      "item": "FDD Item 12, p.50"
+    },
+    "territory_reserved_rights": {
+      "value": "Nontraditional Venues (malls, airports, stadiums, hotels, military bases, universities, hospitals) plus simultaneous chain acquisitions of 3+ Competitive Businesses",
+      "type": "absolute",
+      "item": "FDD Item 12, pp.50-51"
+    },
+    "relocation_policy": {
+      "value": "Relocation only to franchisor-approved location at franchisee expense; relocation fee applies; new Territory assigned (never smaller than one ZIP code)",
+      "type": "absolute",
+      "item": "FDD Item 12, p.50"
+    },
+    "franchise_term_years": {
+      "value": 5,
+      "type": "absolute",
+      "item": "FDD Item 17, p.59 \u2014 initial term ends 5 years from Opening Date"
+    },
+    "renewal_terms": {
+      "value": "Two consecutive 5-year renewal options",
+      "type": "absolute",
+      "item": "FDD Item 17, p.59"
+    },
+    "post_term_noncompete": {
+      "value": "2 years, 5-mile radius of any Franchised Gym worldwide",
+      "type": "absolute",
+      "item": "FDD Item 17, p.62"
+    },
+    "owner_operator_model": {
+      "value": "Entity franchisee designates a Primary Owner as primary contact; Primary Owner must complete Initial Training and devote time/supervise; General Manager recommended",
+      "type": "absolute",
+      "item": "FDD Item 15, p.56"
+    },
+    "financing_offered": {
+      "value": "No \u2014 franchisor does not offer direct or indirect financing and does not guarantee notes, leases, or obligations",
+      "type": "absolute",
+      "item": "FDD Item 10, p.37"
+    },
+    "item19_period": {
+      "value": "October 1, 2024 to September 30, 2025 (and prior 12-month period)",
+      "type": "absolute",
+      "item": "FDD Item 19, p.65"
+    },
+    "item19_n": {
+      "value": 2,
+      "type": "absolute",
+      "item": "FDD Item 19, p.65 \u2014 2 US Franchised Gyms open full 12-month periods (both San Diego, CA)"
+    },
+    "item19_gym1_revenue": {
+      "value": 781220,
+      "type": "absolute",
+      "item": "FDD Item 19, p.65 \u2014 Franchise 1, San Diego CA, opened Jan 28, 2023"
+    },
+    "item19_gym2_revenue": {
+      "value": 697773,
+      "type": "absolute",
+      "item": "FDD Item 19, p.65 \u2014 Franchise 2, San Diego CA, opened July 15, 2023"
+    },
+    "item19_avg_revenue": {
+      "value": 739496,
+      "type": "absolute",
+      "item": "FDD Item 19, p.65 \u2014 average of the 2 reporting gyms"
+    },
+    "item19_note": {
+      "value": "Unaudited, unverified franchisee sales reports; revenue only, no profit/expense figures",
+      "type": "absolute",
+      "item": "FDD Item 19, p.65"
+    },
+    "item20_us_franchised_2025": {
+      "value": 9,
+      "type": "absolute",
+      "item": "FDD Item 20, p.67 \u2014 franchised outlets at end of 2025 (reported through June 30, 2025)"
+    },
+    "item20_us_states": {
+      "value": "AL, AZ, CA, CO, HI, MI, TX",
+      "type": "absolute",
+      "item": "FDD Item 20, p.68"
+    },
+    "item20_terminations": {
+      "value": 0,
+      "type": "absolute",
+      "item": "FDD Item 20, pp.67-68 \u2014 0 terminations all years; Exhibit L: none left the system in the last year"
+    },
+    "item20_network_open": {
+      "value": 60,
+      "type": "absolute",
+      "item": "FDD Item 1, p.2 \u2014 60 franchisee-owned gyms open in Australia and New Zealand as of June 30, 2025 (110 franchise agreements total)"
+    },
+    "item20_signed_not_open_us": {
+      "value": 55,
+      "type": "absolute",
+      "item": "FDD Item 20, p.68 \u2014 55 US franchise agreements signed but outlet not open as of June 30, 2025"
+    },
+    "litigation_disclosed": {
+      "value": "None \u2014 'No litigation is required to be disclosed in this Item.'",
+      "type": "absolute",
+      "item": "FDD Item 3, p.7"
+    },
+    "bankruptcy_disclosed": {
+      "value": "None \u2014 'No bankruptcy information is required to be disclosed in this Item.'",
+      "type": "absolute",
+      "item": "FDD Item 4, p.7"
+    },
+    "financial_statements": {
+      "value": "Interim (Jul 1\u2013Oct 31, 2025) + audited (May 5, 2023\u2013Jun 30, 2024 and Jul 1, 2024\u2013Jun 30, 2025); fiscal year July 1\u2013June 30",
+      "type": "absolute",
+      "item": "FDD Item 21, p.70 \u2014 Exhibit J"
+    },
+    "risk_score": {
+      "value": 34,
+      "type": "theoretical",
+      "item": "THEORETICAL \u2014 method: base 15 +10 high capital ceiling ($954,100) +8 early-stage US system (9 open; Item 19 n=2) +5 minimum royalty floor ($1,600/mo) +5 HQ outside US (Australia) +3 non-exclusive territory with reserved rights \u22125 zero terminations/closures \u22125 audited financials attached \u22122 no litigation disclosed = 34/100"
+    },
+    "fee_burden_ratio_pct": {
+      "value": 12.6,
+      "type": "theoretical",
+      "item": "THEORETICAL \u2014 method: franchise fee $50,000 / Item 7 minimum investment $398,550 = 12.55%"
+    },
+    "unit_growth_2023_2025": {
+      "value": "350%",
+      "type": "theoretical",
+      "item": "THEORETICAL \u2014 method: US franchised outlets 2 (end 2023) \u2192 9 (end 2025); (9\u22122)/2 = 350%"
+    },
+    "item19_confidence": {
+      "value": "LIMITED",
+      "type": "theoretical",
+      "item": "THEORETICAL \u2014 method: n=2 reporting gyms, both in one city (San Diego), unaudited \u2014 narrow basis for a nationwide decision"
+    },
+    "litigation_risk_flag": {
+      "value": "LOW",
+      "type": "theoretical",
+      "item": "THEORETICAL \u2014 method: zero disclosed litigation matters (Item 3)"
+    },
+    "support_score_estimate": {
+      "value": 7,
+      "type": "theoretical",
+      "item": "THEORETICAL \u2014 method: scale 1-10: layout/floor plan, equipment package, initial training, grand-opening social campaign, subpage hosting, optional bookkeeping \u2014 labeled estimate"
+    },
+    "payback_period": {
+      "value": "insufficient-data",
+      "type": "theoretical",
+      "item": "THEORETICAL \u2014 method: Item 19 reports gross revenue only, no expenses or net income \u2014 payback cannot be computed; labeled insufficient-data honestly"
+    },
+    "match_capital_min": {
+      "value": 398550,
+      "type": "matching",
+      "item": "MATCHING \u2014 method: Item 7 low-end investment"
+    },
+    "match_capital_target": {
+      "value": 954100,
+      "type": "matching",
+      "item": "MATCHING \u2014 method: Item 7 high-end investment"
+    },
+    "match_experience": {
+      "value": "Fitness-industry background helpful (founders from fitness training); no prior gym ownership required stated",
+      "type": "matching",
+      "item": "MATCHING \u2014 method: Item 1-2"
+    },
+    "match_operational": {
+      "value": "Primary Owner completes training and supervises; General Manager role defined; owner-operator not strictly required",
+      "type": "matching",
+      "item": "MATCHING \u2014 method: Item 15, p.56"
+    },
+    "match_lifestyle": {
+      "value": "Hands-on launch with 180-day pre-opening checklist; compact 2,000-4,400 sq ft format",
+      "type": "matching",
+      "item": "MATCHING \u2014 method: Item 11; Item 1, p.3"
+    },
+    "match_risk_appetite": {
+      "value": "Moderate: early-stage US system with narrow Item 19, offset by zero litigation and zero closures",
+      "type": "matching",
+      "item": "MATCHING \u2014 method: risk inputs: Items 3, 19, 20"
+    },
+    "match_location": {
+      "value": "US markets; franchisor site approval; territory never smaller than one ZIP code",
+      "type": "matching",
+      "item": "MATCHING \u2014 method: Item 12, p.50; Item 11"
+    },
+    "match_timeline": {
+      "value": "Pre-opening conditions due within 180 days of signing",
+      "type": "matching",
+      "item": "MATCHING \u2014 method: Item 11"
+    }
+  },
+  "netWorthRequirement": "not disclosed in FDD",
+  "netWorthRequirementNote": "Grep of the source FDD text (fdd.txt) found zero net-worth requirement language ('net worth' hits: 0) \u2014 genuinely undisclosed in FDD, not missing data.",
+  "liquidCapitalRequirement": "not disclosed in FDD",
+  "liquidCapitalRequirementNote": "Grep of the source FDD text (fdd.txt) found zero liquid-capital requirement language ('liquid capital' hits: 0) \u2014 genuinely undisclosed in FDD, not missing data.",
+  "pinVerification": {
+    "method": "Nominatim forward-geocode of each pin's labeled city, state (user-agent FKI-MapKI/1.0, >=1.2s between requests); haversine distance between stored pin coordinate and independently geocoded city centroid; tolerance 50.0 km",
+    "run_at": "2026-09-14T17:11:00Z",
+    "pins_total": 8,
+    "pins_verified": 8,
+    "pins_unverifiable": 0,
+    "pins_mismatch": 0,
+    "all_verified": true,
+    "per_pin": [
+      {
+        "pin": 0,
+        "city": "Birmingham",
+        "state": "AL",
+        "neighborhood": null,
+        "stored": [
+          33.5206824,
+          -86.8024326
+        ],
+        "geocoded_city_centroid": [
+          33.5206824,
+          -86.8024326
+        ],
+        "verification_query": "Birmingham, AL, USA",
+        "verification_run_utc": "2026-09-14T17:11:00Z",
+        "distance_km": 0.0,
+        "within_50km": true,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 1,
+        "city": "Paradise Valley",
+        "state": "AZ",
+        "neighborhood": null,
+        "stored": [
+          33.5324295,
+          -111.9505123
+        ],
+        "geocoded_city_centroid": [
+          33.5324295,
+          -111.9505123
+        ],
+        "verification_query": "Paradise Valley, AZ, USA",
+        "verification_run_utc": "2026-09-14T17:11:00Z",
+        "distance_km": 0.0,
+        "within_50km": true,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 2,
+        "city": "San Diego",
+        "state": "CA",
+        "neighborhood": "Normal Heights",
+        "stored": [
+          32.7632847,
+          -117.1184415
+        ],
+        "geocoded_city_centroid": [
+          32.7174202,
+          -117.162772
+        ],
+        "verification_query": "San Diego, CA, USA",
+        "verification_run_utc": "2026-09-14T17:11:00Z",
+        "distance_km": 6.57,
+        "within_50km": true,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 3,
+        "city": "San Diego",
+        "state": "CA",
+        "neighborhood": "Pacific Beach",
+        "stored": [
+          32.7978268,
+          -117.2403183
+        ],
+        "geocoded_city_centroid": [
+          32.7174202,
+          -117.162772
+        ],
+        "verification_query": "San Diego, CA, USA",
+        "verification_run_utc": "2026-09-14T17:11:00Z",
+        "distance_km": 11.51,
+        "within_50km": true,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 4,
+        "city": "Arvada",
+        "state": "CO",
+        "neighborhood": null,
+        "stored": [
+          39.8005505,
+          -105.0811573
+        ],
+        "geocoded_city_centroid": [
+          39.8005505,
+          -105.0811573
+        ],
+        "verification_query": "Arvada, CO, USA",
+        "verification_run_utc": "2026-09-14T17:11:00Z",
+        "distance_km": 0.0,
+        "within_50km": true,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 5,
+        "city": "Honolulu",
+        "state": "HI",
+        "neighborhood": "Kahala (Oahu)",
+        "stored": [
+          21.2705588,
+          -157.786244
+        ],
+        "geocoded_city_centroid": [
+          21.304547,
+          -157.855676
+        ],
+        "verification_query": "Honolulu, HI, USA",
+        "verification_run_utc": "2026-09-14T17:11:00Z",
+        "distance_km": 8.13,
+        "within_50km": true,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 6,
+        "city": "Grand Haven",
+        "state": "MI",
+        "neighborhood": null,
+        "stored": [
+          43.0630734,
+          -86.2283864
+        ],
+        "geocoded_city_centroid": [
+          43.0630734,
+          -86.2283864
+        ],
+        "verification_query": "Grand Haven, MI, USA",
+        "verification_run_utc": "2026-09-14T17:11:00Z",
+        "distance_km": 0.0,
+        "within_50km": true,
+        "status": "VERIFIED"
+      },
+      {
+        "pin": 7,
+        "city": "San Antonio",
+        "state": "TX",
+        "neighborhood": "Downtown / Broadway",
+        "stored": [
+          29.4257188,
+          -98.4892023
+        ],
+        "geocoded_city_centroid": [
+          29.4246002,
+          -98.4951405
+        ],
+        "verification_query": "San Antonio, TX, USA",
+        "verification_run_utc": "2026-09-14T17:11:00Z",
+        "distance_km": 0.59,
+        "within_50km": true,
+        "status": "VERIFIED"
+      }
+    ]
+  },
+  "pinsUpdatedAt": "2026-09-14T17:11:00Z",
+  "field_count": 85
+}
