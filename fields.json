@@ -9,9 +9,9 @@
   "adFee": "2% of Gross Revenue or $200/month minimum",
   "totalUnits": 70,
   "openLocations": 70,
-  "corporateCity": "West Hollywood",
-  "corporateState": "CA",
-  "corporateZip": "90069",
+  "corporateCity": "Caringbah",
+  "corporateState": "NSW",
+  "corporateZip": "2229",
   "corporateAddress": "1/2 Cawarra Road, Caringbah, NSW, 2229, Australia",
   "description": "The Yard Gym is a boutique strength and conditioning franchise founded in Australia in 2020 by Dan and Tiarne Bova, operated in the US by franchisor TYG Enterprises, LLC, a Delaware LLC formed in 2023. The concept centers on pre-recorded 50-minute instructor-led group classes \u2014 RIG strength/endurance, TURF cardio intervals, and Saturday PAY DAY team sessions \u2014 run in compact 2,000-4,400 sq ft studios with floor coaches giving individual guidance. Per the 2025 US FDD (issued December 8, 2025), the franchise fee is $50,000, total initial investment ranges from $398,550 to $954,100, royalty is the greater of 7% of gross revenue or $1,600/month, and the marketing fee is the greater of 2% or $200/month. The US system had 9 operating gyms at mid-2025 with 55 additional signed agreements; Item 19 reports average gross revenue of $739,496 across the 2 San Diego gyms open a full year. Risk score 34/100.",
   "category": "Fitness / Boutique Gym",
@@ -521,168 +521,193 @@
   "liquidCapitalRequirement": "not disclosed in FDD",
   "liquidCapitalRequirementNote": "Grep of the source FDD text (fdd.txt) found zero liquid-capital requirement language ('liquid capital' hits: 0) \u2014 genuinely undisclosed in FDD, not missing data.",
   "pinVerification": {
-    "method": "Nominatim forward-geocode of each pin's labeled city, state (user-agent FKI-MapKI/1.0, >=1.2s between requests); haversine distance between stored pin coordinate and independently geocoded city centroid; tolerance 50.0 km",
-    "run_at": "2026-09-14T17:11:00Z",
+    "method": "D4-08 per-pin re-verification: independent Nominatim forward-geocode of each pin's (city, state); haversine vs stored plotted coords; 50km tolerance",
+    "run_utc": "2026-09-15T02:02:57.565902+00:00",
     "pins_total": 8,
     "pins_verified": 8,
-    "pins_unverifiable": 0,
     "pins_mismatch": 0,
+    "pins_unverifiable": 0,
     "all_verified": true,
     "per_pin": [
       {
         "pin": 0,
         "city": "Birmingham",
         "state": "AL",
-        "neighborhood": null,
         "stored": [
           33.5206824,
           -86.8024326
         ],
-        "geocoded_city_centroid": [
-          33.5206824,
-          -86.8024326
+        "geocoded": [
+          33.520682,
+          -86.802433
         ],
-        "verification_query": "Birmingham, AL, USA",
-        "verification_run_utc": "2026-09-14T17:11:00Z",
+        "geocode_query": "Birmingham, Alabama, United States",
         "distance_km": 0.0,
-        "within_50km": true,
         "status": "VERIFIED"
       },
       {
         "pin": 1,
         "city": "Paradise Valley",
         "state": "AZ",
-        "neighborhood": null,
         "stored": [
           33.5324295,
           -111.9505123
         ],
-        "geocoded_city_centroid": [
-          33.5324295,
-          -111.9505123
+        "geocoded": [
+          33.532429,
+          -111.950512
         ],
-        "verification_query": "Paradise Valley, AZ, USA",
-        "verification_run_utc": "2026-09-14T17:11:00Z",
+        "geocode_query": "Paradise Valley, Arizona, United States",
         "distance_km": 0.0,
-        "within_50km": true,
         "status": "VERIFIED"
       },
       {
         "pin": 2,
         "city": "San Diego",
         "state": "CA",
-        "neighborhood": "Normal Heights",
         "stored": [
           32.7632847,
           -117.1184415
         ],
-        "geocoded_city_centroid": [
-          32.7174202,
+        "geocoded": [
+          32.71742,
           -117.162772
         ],
-        "verification_query": "San Diego, CA, USA",
-        "verification_run_utc": "2026-09-14T17:11:00Z",
+        "geocode_query": "San Diego, California, United States",
         "distance_km": 6.57,
-        "within_50km": true,
         "status": "VERIFIED"
       },
       {
         "pin": 3,
         "city": "San Diego",
         "state": "CA",
-        "neighborhood": "Pacific Beach",
         "stored": [
           32.7978268,
           -117.2403183
         ],
-        "geocoded_city_centroid": [
-          32.7174202,
+        "geocoded": [
+          32.71742,
           -117.162772
         ],
-        "verification_query": "San Diego, CA, USA",
-        "verification_run_utc": "2026-09-14T17:11:00Z",
+        "geocode_query": "San Diego, California, United States",
         "distance_km": 11.51,
-        "within_50km": true,
         "status": "VERIFIED"
       },
       {
         "pin": 4,
         "city": "Arvada",
         "state": "CO",
-        "neighborhood": null,
         "stored": [
           39.8005505,
           -105.0811573
         ],
-        "geocoded_city_centroid": [
-          39.8005505,
-          -105.0811573
+        "geocoded": [
+          39.80055,
+          -105.081157
         ],
-        "verification_query": "Arvada, CO, USA",
-        "verification_run_utc": "2026-09-14T17:11:00Z",
+        "geocode_query": "Arvada, Colorado, United States",
         "distance_km": 0.0,
-        "within_50km": true,
         "status": "VERIFIED"
       },
       {
         "pin": 5,
         "city": "Honolulu",
         "state": "HI",
-        "neighborhood": "Kahala (Oahu)",
         "stored": [
           21.2705588,
           -157.786244
         ],
-        "geocoded_city_centroid": [
+        "geocoded": [
           21.304547,
           -157.855676
         ],
-        "verification_query": "Honolulu, HI, USA",
-        "verification_run_utc": "2026-09-14T17:11:00Z",
+        "geocode_query": "Honolulu, Hawaii, United States",
         "distance_km": 8.13,
-        "within_50km": true,
         "status": "VERIFIED"
       },
       {
         "pin": 6,
         "city": "Grand Haven",
         "state": "MI",
-        "neighborhood": null,
         "stored": [
           43.0630734,
           -86.2283864
         ],
-        "geocoded_city_centroid": [
-          43.0630734,
-          -86.2283864
+        "geocoded": [
+          43.063073,
+          -86.228386
         ],
-        "verification_query": "Grand Haven, MI, USA",
-        "verification_run_utc": "2026-09-14T17:11:00Z",
+        "geocode_query": "Grand Haven, Michigan, United States",
         "distance_km": 0.0,
-        "within_50km": true,
         "status": "VERIFIED"
       },
       {
         "pin": 7,
         "city": "San Antonio",
         "state": "TX",
-        "neighborhood": "Downtown / Broadway",
         "stored": [
           29.4257188,
           -98.4892023
         ],
-        "geocoded_city_centroid": [
-          29.4246002,
-          -98.4951405
+        "geocoded": [
+          29.4246,
+          -98.495141
         ],
-        "verification_query": "San Antonio, TX, USA",
-        "verification_run_utc": "2026-09-14T17:11:00Z",
+        "geocode_query": "San Antonio, Texas, United States",
         "distance_km": 0.59,
-        "within_50km": true,
         "status": "VERIFIED"
       }
     ]
   },
-  "pinsUpdatedAt": "2026-09-14T17:11:00Z",
-  "field_count": 85
+  "pinsUpdatedAt": "2026-09-15T02:02:57.565902+00:00",
+  "field_count": 85,
+  "risk_method": "base 15 + high_capital_ceiling 10 + early_stage_us_system 8 + minimum_royalty_floor 5 + hq_outside_us 5 + non_exclusive_territory 3 - zero_terminations 5 - audited_financials 5 - no_litigation 2 = 34",
+  "risk_components": [
+    {
+      "name": "high_capital_ceiling",
+      "weight": 10,
+      "note": "investment tops out at $954,100 (FDD Item 7)"
+    },
+    {
+      "name": "early_stage_us_system",
+      "weight": 8,
+      "note": "9 open gyms; Item 19 covers only 2 (FDD Items 19-20)"
+    },
+    {
+      "name": "minimum_royalty_floor",
+      "weight": 5,
+      "note": "$1,600/month regardless of revenue (FDD Item 6)"
+    },
+    {
+      "name": "hq_outside_us",
+      "weight": 5,
+      "note": "HQ outside US (Australia; FDD Item 1)"
+    },
+    {
+      "name": "non_exclusive_territory",
+      "weight": 3,
+      "note": "non-exclusive territory with franchisor reserved rights (FDD Item 12)"
+    },
+    {
+      "name": "zero_terminations",
+      "weight": -5,
+      "note": "zero terminations / zero gyms left the system (FDD Item 20)"
+    },
+    {
+      "name": "audited_financials",
+      "weight": -5,
+      "note": "audited financial statements attached (Exhibit J; FDD Item 21)"
+    },
+    {
+      "name": "no_litigation",
+      "weight": -2,
+      "note": "no litigation disclosed (FDD Item 3)"
+    }
+  ],
+  "risk_source": "page Method text",
+  "logoUrl": "https://www.theyardgym.com/tyg-logo.svg",
+  "logoUrl_verified_2026_09_14": "HEAD/GET 200, content-type image/*",
+  "corporateCountry": "Australia",
+  "usOfficeCity": "West Hollywood",
+  "usOfficeState": "CA"
 }
